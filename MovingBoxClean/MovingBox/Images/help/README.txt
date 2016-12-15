@@ -1,0 +1,1 @@
+Yes, these are necessary. They're the images in the help files.
