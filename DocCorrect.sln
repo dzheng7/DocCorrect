@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingBox", "MovingBox\MovingBox.csproj", "{1DBFE251-6B2D-4AD1-BAAA-CA24B904EB3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocCorrect", "DocCorrect\DocCorrect.csproj", "{1DBFE251-6B2D-4AD1-BAAA-CA24B904EB3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
